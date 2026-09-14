@@ -1,0 +1,12 @@
+# Credentials and secrets
+*password*
+*.key
+*.pem
+wazuh-passwords.txt
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
